@@ -80,7 +80,7 @@ INTRODUCTION:
 
   In this research paper, we are going to discuss how deep
 learning could be used in the recognition of respiratory disease
-just from the respiratory sound. Respiratory audios are important indicators of respiratory health and respiratory disorder.
+just from the respiratory sound. Respiratory audios are important indicators of respiratory health and respiratory disorder.
 For example, a wheezing sound is a common sign that a patient
 has an obstructive airway disease like asthma or chronic
 obstructive pulmonary disease (COPD). We have approached
@@ -113,7 +113,7 @@ also indicates poor model performance.
 CONCLUSION
 
     Medical research and medical science could be progressed
-further with the help of artificial intelligence. The neural network architecture has performed better than our expectations.
+further with the help of artificial intelligence. The neural network architecture has performed better than our expectations.
 But still, it needs a lot of improvements to achieve higher
 accuracy during prediction. We hope our research would
 inspire future researchers to work on this subject and wish
