@@ -16,7 +16,7 @@ precision.
 Index Terms:
   
   Respiratory disease recognition, Deep neural
-network,GRU(Gated Recurrent Unit), sound data, data augmentation, feature extraction, classification
+network,GRU(Gated Recurrent Unit), sound data, data augmentation, feature extraction, classification
 
 # To run the project very quick and agile follow the instructions bellow:
 
@@ -32,7 +32,7 @@ of varying length from 10s to 90s.There are a total of 5.5 hours
 of recordings containing 6898 respiratory cycles - 886 contain
 wheezes, 1864 contain crackles and 506 contain both crackles
 and wheezes. The patients span all age groups - children,
-adults and the elderly. The respiratory sounds in the dataset are of different category such as Healthy, COPD(Chronic
+adults and the elderly. The respiratory sounds in the dataset are of different category such as Healthy, COPD(Chronic
 obstructive pulmonary disease), URTI(upper respiratory tract
 infection), Bronchiectasis, Pneumonia, Bronchiolitis, Asthma,
 LRTI(Lower respiratory tract infection) which would be classified or predicted by out neural network model.
@@ -48,14 +48,20 @@ bug fitted new versionsss....!
 
 -> After installing all these packages successfully just run the respiratory-disease.py for training the dataset and deploying a new model
 
+	python respiratory-disease.py
+
 -> If you dont want to train again means, i have attached my locally trained deep learning model in the repo using that you can direct predict
 disease easily without any overhelming tasks or cpu hanging....!!!
+	
+	python "result of model.py"
 
 -> To get the result of first audio from the dataset of the patients run the file results of model.py, it will give you a predicted disease with
 probobility of other disease witht there percentages also.
 
 -> To run in GUI format and to check a new audio file means, i have created a Simple GUI for getting the input as path of the audio file with the 
 extension and return the results in the desktop manner using the kivy frame work in python.
+	
+	python main.py
 
 -> To run GUI mode just run the main.py inside the main repo of our project and give the input below:
 
