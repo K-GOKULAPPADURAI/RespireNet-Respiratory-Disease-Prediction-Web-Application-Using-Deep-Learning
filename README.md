@@ -112,7 +112,7 @@ also indicates poor model performance.
 
 CONCLUSION
 
-	Medical research and medical science could be progressed
+    Medical research and medical science could be progressed
 further with the help of artificial intelligence. The neural network architecture has performed better than our expectations.
 But still, it needs a lot of improvements to achieve higher
 accuracy during prediction. We hope our research would
