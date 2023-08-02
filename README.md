@@ -1,10 +1,5 @@
 # Respiratory-Disease-Prediction-using-Deep-Learning
 
- -> To run the Flask local web application goto this repository 
-
-[GitHub]( https://github.com/K-GOKULAPPADURAI/Render-Deployment-of-Respiratory-Disease-Prediction-using-Deep-leanring-model)
-
-
 ABSTRACT :
 
   Prediction of respiratory diseases such as
@@ -17,6 +12,10 @@ condition of its respiratory system. It not only classifies among
 the above-mentioned disease but also classifies if a person’s
 respiratory system is healthy or not with higher accuracy and
 precision.
+
+#To run the Flask local web application goto this repository 
+
+[Flask Local Web Application]( https://github.com/K-GOKULAPPADURAI/Render-Deployment-of-Respiratory-Disease-Prediction-using-Deep-leanring-model)
 
 Index Terms:
   
