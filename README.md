@@ -1,5 +1,5 @@
 # Respiratory-Disease-Prediction-using-Deep-Learning
-
+# To run the Flask local web application goto this repository ``` https://github.com/K-GOKULAPPADURAI/Render-Deployment-of-Respiratory-Disease-Prediction-using-Deep-leanring-model ```
 ABSTRACT :
 
   Prediction of respiratory diseases such as
